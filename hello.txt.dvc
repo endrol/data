@@ -1,0 +1,4 @@
+outs:
+- md5: 2a32dd6ae82fc48a2027f91f6ce1929f
+  size: 28
+  path: hello.txt
